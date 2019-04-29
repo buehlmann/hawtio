@@ -24,7 +24,7 @@ public class PluginContextListener implements ServletContextListener {
          */
 
         plugin = new HawtioPlugin();
-        plugin.setContext("/hawtio/custom-perspective");
+        plugin.setContext("/custom-perspective");
         plugin.setName("custom-perspective");
         plugin.setScripts("app/js/plugin.js");
         plugin.setDomain(null);

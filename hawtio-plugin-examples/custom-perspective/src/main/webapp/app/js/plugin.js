@@ -39,6 +39,21 @@ var CustomPerspective = (function() {
               href: "#/dashboard"
             },
             {
+              href: "#/diagnostics"
+            },
+            {
+              href: "#/jboss"
+            },
+            {
+              href: "#/threads"
+            },
+            {
+              href: "#/wiki"
+            },
+            {
+              href: "#/runtime"
+            },
+            {
               href: "#/jvm"
             }
           ]
